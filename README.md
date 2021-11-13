@@ -16,6 +16,6 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+O que estou achando do curso?
 
 Todos os materiais sao interessantes e bem executados ateh agr, unico problema foi o curso de GIT q pulou muitas etapas
